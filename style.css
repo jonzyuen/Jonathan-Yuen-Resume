@@ -11,6 +11,7 @@ h1 {
 h2 {
   font-family: Georgia;
   font-size: 3em;
+  text-align: center;
 }
 
 ul {
@@ -21,9 +22,9 @@ ul {
 
 } */
 
-.skills {
+/* .skills {
   text-align:center;
-}
+} */
 
 #references {
   background-color:aquamarine;
